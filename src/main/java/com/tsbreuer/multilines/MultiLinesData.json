@@ -2091,6 +2091,31 @@
           { "x": 3175, "y": 3647, "width": 1, "height": 1 }
         ]
       }
+
+      [
+        {
+          "Name": "Clan Wars (Safe)",
+          "Tiles": [
+            {
+              "X": 2756,
+              "Y": 5537,
+              "Width": 124,
+              "Height": 95
+            }
+          ]
+        },
+        {
+          "Name": "Clan Wars (Risk)",
+          "Tiles": [
+            {
+              "X": 2948,
+              "Y": 5537,
+              "Width": 124,
+              "Height": 95
+            }
+          ]
+        }
+      ]
     ]
   }
 }
