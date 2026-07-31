@@ -144,7 +144,6 @@ public class MultiLinesPlugin extends Plugin {
 			githubURL = "https://raw.githubusercontent.com/tsbreuer/Multi-Lines/geoJSON/src/main/java/com/tsbreuer/multilines/MultiLinesData.json?_=" + System.currentTimeMillis();
 		}
 
-
 		try {
 			HttpClient hClient = HttpClient.newBuilder()
 					.version(HttpClient.Version.HTTP_1_1)

@@ -2110,7 +2110,19 @@
         "Tiles": [
           { "x": 2948, "y": 5537, "width": 124, "height": 95 }
         ]
+      },
+      {
+        "Name": "Tormented Demons",
+        "Removed": false,
+        "Enabled": true,
+        "Wilderness": false,
+        "Notes": "Tormented Demons area",
+        "Tiles": [
+          { "x": 2573, "y": 5696, "width": 51, "height": 58 },
+          { "x": 2542, "y": 5706, "width": 19, "height": 27 }
+        ]
       }
+
     ]
   }
 }
