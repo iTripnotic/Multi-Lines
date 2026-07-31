@@ -2090,6 +2090,26 @@
         "Tiles": [
           { "x": 3175, "y": 3647, "width": 1, "height": 1 }
         ]
+      },
+      {
+        "Name": "Clan Wars (Safe)",
+        "Removed": false,
+        "Enabled": true,
+        "Wilderness": false,
+        "Notes": "Safe Clan Wars area",
+        "Tiles": [
+          { "x": 2756, "y": 5537, "width": 124, "height": 95 }
+        ]
+      },
+      {
+        "Name": "Clan Wars (Risk)",
+        "Removed": false,
+        "Enabled": true,
+        "Wilderness": false,
+        "Notes": "Risk Clan Wars area",
+        "Tiles": [
+          { "x": 2948, "y": 5537, "width": 124, "height": 95 }
+        ]
       }
     ]
   }
